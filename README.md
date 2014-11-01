@@ -4,7 +4,7 @@
 ## Requirements
 
 1. [CakePHP](http://cakephp.org/)
-2. [TinyCME uploader](https://github.com/hashmode/Tinymce-Image-Upload-Cakephp to )
+2. [TinyMCE uploader](https://github.com/hashmode/Tinymce-Image-Upload-Cakephp)
 
 ## Installation
 
